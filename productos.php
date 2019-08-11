@@ -14,7 +14,7 @@
 	$active_productos="active";
 	$active_clientes="";
 	$active_usuarios="";
-	$title="Productos | Libreria-";
+	$title="Productos | Libreria";
 ?>
 <!DOCTYPE html>
 <html lang="en">

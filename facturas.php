@@ -10,7 +10,7 @@
 	$active_productos="";
 	$active_clientes="";
 	$active_usuarios="";
-	$title="Facturas | Boutique Tendy";
+	$title="Facturas | Libreria";
 ?>
 <!DOCTYPE html>
 <html lang="en">
